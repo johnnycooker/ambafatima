@@ -11,8 +11,12 @@ interface NavItem {
 
 const navItems: NavItem[] = [
   {
-    "label": "main",
+    "label": "Dupa",
     "href": "/"
+  },
+  {
+    "label": "Cipa",
+    "href": "/dsa"
   }
 ];
 
